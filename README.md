@@ -33,7 +33,7 @@ The Countries Project is a web application that displays information about diffe
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/Rajiv-0920/Country-Details-Project 
     ```
 2. Navigate to the project directory:
     ```sh
