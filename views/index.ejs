@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles/style.css">
+  <title>Where in the World?</title>
+</head>
+
+<body>
+  <div class="container">
+    <header class="searchCountry">
+      <h1 class="title">Where in the World?</h1>
+      <form action="/submit" method="post">
+        <select name="country" id="country">
+          <% countries.forEach(country => { %>
+          <% if(country.name === data.name) { %>
+          <option value="<%= country.name %>" selected><%= country.name %></option>
+          <%}else{%>
+          <option value="<%= country.name %>"><%= country.name %></option>
+          <%}%>
+          <% }) %>
+        </select>
+        <input type="submit" value="Get Country Details">
+      </form>
+    </header>
+    <main>
+      <h1 class="countryName"><%= data.name %></h1>
+      <div>
+        <figure>
+          <img src="<%= data.flag %>" alt="Country Image">
+        </figure>
+        <div class="countryDetails">
+          <ul>
+            <li>Native Name: <span><%= data.native_name %></span></li>
+            <li>Population: <span><%= data.population %></span></li>
+            <li>Region: <span><%= data.region %> </span></li>
+            <li>Sub Region: <span><%= data.subregion %></span></li>
+            <li>Capital: <span><%= data.capital %></span></li>
+            <li>Border Countries: <span><%- data.borders ? data.borders.split('|').join(', ') : ''; %></span></li>
+          </ul>
+          <ul>
+            <li>Top Level Domain: <span><%= data.top_level_domain %></span></li>
+            <li>Currencies: <span>Code: <%= data.currencies_code%>, Name: <%=data.currencies_name%>, Symbol: <%= data.currencies_symbol %></span></li>
+            <li>Languages: <span><%= data.languages ? data.languages.split('|').join(', ') : 'Data Unavailable'; %></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+  </div>
+</body>
+
+</script>
+
+</html>

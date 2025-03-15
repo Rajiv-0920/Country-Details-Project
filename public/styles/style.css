@@ -1,0 +1,134 @@
+:root {
+    --white: #ffffff;
+    --pink: #E90064;
+    --darkblue: #060047;
+    --darkblue50: #06004750;
+    --darkblue80: #06004780;
+
+    --ff-Censcbk: 'Denscbk', serif;
+    --ff-Bagnard: 'Bagnard', serif;
+}
+
+@font-face {
+    font-family: 'Bagnard';
+    src: url('../font/BAGNARD.OTF');
+}
+
+@font-face {
+    font-family: 'Censcbk';
+    src: url('../font/CENSCBK.TTF');
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    place-items: center;
+    background-image: linear-gradient(45deg, #E90064 3%, #060047 100%);
+    min-height: 100vh;
+    font-family: var(--ff-Censcbk);
+}
+
+img {
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    background-color: var(--white);
+    background-image: url('../images/img.svg');
+    padding: 40px;
+    border-radius: 10px;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 2px rgba(0, 0, 0, 0.15), 0 4px 4px rgba(0, 0, 0, 0.15), 0 8px 8px rgba(0, 0, 0, 0.15);
+}
+
+.searchCountry {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.title {
+    font-size: 2.2rem;
+    font-family: var(--ff-Bagnard);
+    color: var(--darkblue);
+}
+
+/* Country Input */
+#country {
+    width: min(560px, 100%);
+    padding: 10px;
+    font-size: 1.5rem;
+    font-family: var(--ff-Censcbk);
+    letter-spacing: 1px;
+    border: 2px solid var(--darkblue50);
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+#country:focus {
+    outline: none;
+    border: 2px solid var(--darkblue80);
+}
+
+.countryName {
+    font-size: 3.5rem;
+    color: var(--darkblue);
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+main div {
+    display: flex;
+    gap: 20px;
+}
+
+figure,
+.countryDetails,
+.countryDetails ul {
+    flex: 1;
+}
+
+.countryDetails ul {
+    font-size: 1.5rem;
+    line-height: 1.3;
+    color: var(--darkblue);
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.countryDetails ul span {
+    font-weight: 400;
+}
+
+input[type="submit"] {
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-family: var(--ff-Censcbk);
+    padding: 10px;
+    text-transform: capitalize;
+    background-color: var(--pink);
+    color: var(--white);
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 5px 20px #E9006480;
+}

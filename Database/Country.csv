@@ -1,0 +1,251 @@
+id,name,topLevelDomain,capital,subregion,region,population,nativeName,borders,flag,currencies_symbol,currencies_code,currencies_name,Languages
+1,India,.in,New Delhi,Southern Asia,Asia,1380004385,????,"AFG,BGD,BTN,MMR,CHN,NPL,PAK,LKA",https://flagcdn.com/in.svg,?,INR,Indian rupee,"Hindi,English,and many others"
+2,Afghanistan,.af,Kabul,Southern Asia,Asia,40218234,?????????,"IRN,PAK,TKM,UZB,TJK,CHN",https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg,?,AFN,Afghan afghani,Albanian
+3,√Öland Islands,.ax,Mariehamn,Northern Europe,Europe,28875,≈land,,https://flagcdn.com/ax.svg,Ä,EUR,Euro,"Arabic,Berber"
+4,Albania,.al,Tirana,Southern Europe,Europe,2837743,ShqipÎria,"MNE,GRC,MKD,UNK",https://flagcdn.com/al.svg,L,ALL,Albanian lek,Catalan
+5,Algeria,.dz,Algiers,Northern Africa,Africa,44700000,???????,"TUN,LBY,NER,ESH,MRT,MLI,MAR",https://flagcdn.com/dz.svg,?.?,DZD,Algerian dinar,Portuguese
+6,American Samoa,.as,Pago Pago,Polynesia,Oceania,55197,American Samoa,,https://flagcdn.com/as.svg,$,USD,United States Dollar,English
+7,Andorra,.ad,Andorra la Vella,Southern Europe,Europe,77265,Andorra,"FRA,ESP",https://flagcdn.com/ad.svg,Ä,EUR,Euro,Spanish
+8,Angola,.ao,Luanda,Middle Africa,Africa,32866268,Angola,"COG,COD,ZMB,NAM",https://flagcdn.com/ao.svg,Kz,AOA,Angolan kwanza,Armenian
+9,Anguilla,.ai,The Valley,Caribbean,Americas,13452,Anguilla,,https://flagcdn.com/ai.svg,$,XCD,East Caribbean dollar,English
+10,Antarctica,.aq,,Antarctica,Polar,1000,Antarctica,,https://flagcdn.com/aq.svg,,,,German
+11,Antigua and Barbuda,.ag,Saint John's,Caribbean,Americas,97928,Antigua and Barbuda,,https://flagcdn.com/ag.svg,$,XCD,East Caribbean dollar,Azerbaijani
+12,Argentina,.ar,Buenos Aires,South America,Americas,45376763,Argentina,"BOL,BRA,CHL,PRY,URY",https://flagcdn.com/ar.svg,$,ARS,Argentine peso,English
+13,Armenia,.am,Yerevan,Western Asia,Asia,2963234,????????,"AZE,GEO,IRN,TUR",https://flagcdn.com/am.svg,?,AMD,Armenian dram,Arabic
+14,Aruba,.aw,Oranjestad,Caribbean,Americas,106766,Aruba,,https://flagcdn.com/aw.svg,É,AWG,Aruban florin,Bengali
+15,Australia,.au,Canberra,Australia and New Zealand,Oceania,25687041,Australia,,https://flagcdn.com/au.svg,$,AUD,Australian dollar,English
+16,Austria,.at,Vienna,Central Europe,Europe,8917205,÷sterreich,"CZE,DEU,HUN,ITA,LIE,SVK,SVN,CHE",https://flagcdn.com/at.svg,Ä,EUR,Euro,"Belarusian,Russian"
+17,Azerbaijan,.az,Baku,Western Asia,Asia,10110116,Az?rbaycan,"ARM,GEO,IRN,RUS,TUR",https://flagcdn.com/az.svg,?,AZN,Azerbaijani manat,"Dutch,French,German"
+18,Bahamas,.bs,Nassau,Caribbean,Americas,393248,Bahamas,,https://flagcdn.com/bs.svg,$,BSD,Bahamian dollar,English
+19,Bahrain,.bh,Manama,Western Asia,Asia,1701583,????????,,https://flagcdn.com/bh.svg,.?.?,BHD,Bahraini dinar,French
+20,Bangladesh,.bd,Dhaka,Southern Asia,Asia,164689383,Bangladesh,"MMR,IND",https://flagcdn.com/bd.svg,?,BDT,Bangladeshi taka,Dzongkha
+21,Barbados,.bb,Bridgetown,Caribbean,Americas,287371,Barbados,,https://flagcdn.com/bb.svg,$,BBD,Barbadian dollar,Spanish
+22,Belarus,.by,Minsk,Eastern Europe,Europe,9398861,?????????,"LVA,LTU,POL,RUS,UKR",https://flagcdn.com/by.svg,Br,BYN,New Belarusian ruble,"Bosnian,Serbian,Croatian"
+23,Belgium,.be,Brussels,Western Europe,Europe,11555997,BelgiÎ,"FRA,DEU,LUX,NLD",https://flagcdn.com/be.svg,Ä,EUR,Euro,"Setswana,English"
+24,Belize,.bz,Belmopan,Central America,Americas,397621,Belize,"GTM,MEX",https://flagcdn.com/bz.svg,$,BZD,Belize dollar,Portuguese
+25,Benin,.bj,Porto-Novo,Western Africa,Africa,12123198,BÈnin,"BFA,NER,NGA,TGO",https://flagcdn.com/bj.svg,Fr,XOF,West African CFA franc,Malay
+26,Bermuda,.bm,Hamilton,Northern America,Americas,63903,Bermuda,,https://flagcdn.com/bm.svg,$,BMD,Bermudian dollar,Bulgarian
+27,Bhutan,.bt,Thimphu,Southern Asia,Asia,771612,?brug-yul,"CHN,IND",https://flagcdn.com/bt.svg,Nu.,BTN,Bhutanese ngultrum,French
+28,Bolivia (Plurinational State of),.bo,Sucre,South America,Americas,11673029,Bolivia,"ARG,BRA,CHL,PRY,PER",https://flagcdn.com/bo.svg,Bs.,BOB,Bolivian boliviano,"Kirundi,French,English"
+29,"Bonaire, Sint Eustatius and Saba",".an,.nl",Kralendijk,Caribbean,Americas,17408,Bonaire,,https://flagcdn.com/bq.svg,$,USD,United States dollar,Portuguese
+30,Bosnia and Herzegovina,.ba,Sarajevo,Southern Europe,Europe,3280815,Bosna i Hercegovina,"HRV,MNE,SRB",https://flagcdn.com/ba.svg,KM,BAM,Bosnia and Herzegovina convertible mark,Khmer
+31,Botswana,.bw,Gaborone,Southern Africa,Africa,2351625,Botswana,"NAM,ZAF,ZMB,ZWE",https://flagcdn.com/bw.svg,P,BWP,Botswana pula,"French,English"
+32,Bouvet Island,.bv,,South Antarctic Ocean,Antarctic Ocean,0,Bouvet¯ya,,https://flagcdn.com/bv.svg,kr,NOK,Norwegian krone,"English,French"
+33,Brazil,.br,Bras√≠lia,South America,Americas,212559409,Brasil,"ARG,BOL,COL,FRA,GUF,GUY,PRY,PER,SUR,URY,VEN",https://flagcdn.com/br.svg,R$,BRL,Brazilian real,"Sango,French"
+34,British Indian Ocean Territory,.io,Diego Garcia,Eastern Africa,Africa,3000,British Indian Ocean Territory,,https://flagcdn.com/io.svg,$,USD,United States dollar,"French,Arabic"
+35,United States Minor Outlying Islands,.us,,Northern America,Americas,300,United States Minor Outlying Islands,,https://flagcdn.com/um.svg,£,GBP,British pound,Spanish
+36,Virgin Islands (British),.vg,Road Town,Caribbean,Americas,30237,British Virgin Islands,,https://flagcdn.com/vg.svg,$,USD,United States dollar,Mandarin Chinese
+37,Virgin Islands (U.S.),.vi,Charlotte Amalie,Caribbean,Americas,106290,Virgin Islands of the United States,,https://flagcdn.com/vi.svg,$,USD,United States dollar,Spanish
+38,Brunei Darussalam,.bn,Bandar Seri Begawan,South-Eastern Asia,Asia,437483,Negara Brunei Darussalam,MYS,https://flagcdn.com/bn.svg,$,BND,Brunei dollar,"Comorian,French,Arabic"
+39,Bulgaria,.bg,Sofia,Eastern Europe,Europe,6927288,????????,"GRC,MKD,ROU,SRB,TUR",https://flagcdn.com/bg.svg,??,BGN,Bulgarian lev,Democratic Republic of the
+40,Burkina Faso,.bf,Ouagadougou,Western Africa,Africa,20903278,Burkina Faso,"BEN,CIV,GHA,MLI,NER,TGO",https://flagcdn.com/bf.svg,Fr,XOF,West African CFA franc,Republic of the
+41,Burundi,.bi,Gitega,Eastern Africa,Africa,11890781,Burundi,"COD,RWA,TZA",https://flagcdn.com/bi.svg,Fr,BIF,Burundian franc,Spanish
+42,Cambodia,.kh,Phnom Penh,South-Eastern Asia,Asia,16718971,K‚mp?chÈa,"LAO,THA,VNM",https://flagcdn.com/kh.svg,?,KHR,Cambodian riel,French
+43,Cameroon,.cm,Yaound√©,Middle Africa,Africa,26545864,Cameroon,"CAF,TCD,COG,GNQ,GAB,NGA",https://flagcdn.com/cm.svg,Fr,XAF,Central African CFA franc,Croatian
+44,Canada,.ca,Ottawa,Northern America,Americas,38005238,Canada,USA,https://flagcdn.com/ca.svg,$,CAD,Canadian dollar,Spanish
+45,Cabo Verde,.cv,Praia,Western Africa,Africa,555988,Cabo Verde,,https://flagcdn.com/cv.svg,Esc,CVE,Cape Verdean escudo,"Greek,Turkish"
+46,Cayman Islands,.ky,George Town,Caribbean,Americas,65720,Cayman Islands,,https://flagcdn.com/ky.svg,$,KYD,Cayman Islands dollar,Czech
+47,Central African Republic,.cf,Bangui,Middle Africa,Africa,4829764,KˆdˆrˆsÍse tÓ BÍafrÓka,"CMR,TCD,COD,COG,SSD,SDN",https://flagcdn.com/cf.svg,Fr,XAF,Central African CFA franc,Danish
+48,Chad,.td,N'Djamena,Middle Africa,Africa,16425859,Tchad,"CMR,CAF,LBY,NER,NGA,SDN",https://flagcdn.com/td.svg,Fr,XAF,Central African CFA franc,"Arabic,French"
+49,Chile,.cl,Santiago,South America,Americas,19116209,Chile,"ARG,BOL,PER",https://flagcdn.com/cl.svg,$,CLP,Chilean peso,English
+50,China,.cn,Beijing,Eastern Asia,Asia,1402112000,??,"AFG,BTN,MMR,HKG,IND,KAZ,PRK,KGZ,LAO,MAC,MNG,PAK,RUS,TJK,VNM,NPL",https://flagcdn.com/cn.svg,•,CNY,Chinese yuan,Spanish
+51,Christmas Island,.cx,Flying Fish Cove,Australia and New Zealand,Oceania,2072,Christmas Island,,https://flagcdn.com/cx.svg,$,AUD,Australian dollar,Spanish
+52,Cocos (Keeling) Islands,.cc,West Island,Australia and New Zealand,Oceania,550,Cocos (Keeling) Islands,,https://flagcdn.com/cc.svg,$,AUD,Australian dollar,Arabic
+53,Colombia,.co,Bogot√°,South America,Americas,50882884,Colombia,"BRA,ECU,PAN,PER,VEN",https://flagcdn.com/co.svg,$,COP,Colombian peso,Spanish
+54,Comoros,.km,Moroni,Eastern Africa,Africa,869595,Komori,,https://flagcdn.com/km.svg,Fr,KMF,Comorian franc,"Spanish,French,Portuguese"
+55,Congo,.cg,Brazzaville,Middle Africa,Africa,5518092,RÈpublique du Congo,"AGO,CMR,CAF,COD,GAB",https://flagcdn.com/cg.svg,Fr,XAF,Central African CFA franc,"Tigrinya,Arabic,English"
+56,Congo (Democratic Republic of the),.cd,Kinshasa,Middle Africa,Africa,89561404,RÈpublique dÈmocratique du Congo,"AGO,BDI,CAF,COG,RWA,SSD,TZA,UGA,ZMB",https://flagcdn.com/cd.svg,Fr,CDF,Congolese franc,Estonian
+57,Cook Islands,.ck,Avarua,Polynesia,Oceania,18100,Cook Islands,,https://flagcdn.com/ck.svg,$,NZD,New Zealand dollar,"Swazi,English"
+58,Costa Rica,.cr,San Jos√©,Central America,Americas,5094114,Costa Rica,"NIC,PAN",https://flagcdn.com/cr.svg,?,CRC,Costa Rican colÛn,Amharic
+59,Croatia,.hr,Zagreb,Southern Europe,Europe,4047200,Hrvatska,"BIH,HUN,MNE,SRB,SVN",https://flagcdn.com/hr.svg,Ä,EUR,Euro,"English,Fijian,Fiji Hindi"
+60,Cuba,.cu,Havana,Caribbean,Americas,11326616,Cuba,,https://flagcdn.com/cu.svg,$,CUC,Cuban convertible peso,"Finnish,Swedish"
+61,Cura√ßao,.cw,Willemstad,Caribbean,Americas,155014,CuraÁao,,https://flagcdn.com/cw.svg,É,ANG,Netherlands Antillean guilder,French
+62,Cyprus,.cy,Nicosia,Southern Europe,Europe,1207361,??????,GBR,https://flagcdn.com/cy.svg,Ä,EUR,Euro,French
+63,Czech Republic,.cz,Prague,Central Europe,Europe,10698896,?esk· republika,,https://flagcdn.com/cz.svg,K?,CZK,Czech koruna,English
+64,Denmark,.dk,Copenhagen,Northern Europe,Europe,5831404,Danmark,DEU,https://flagcdn.com/dk.svg,kr,DKK,Danish krone,Georgian
+65,Djibouti,.dj,Djibouti,Eastern Africa,Africa,988002,Djibouti,"ERI,ETH,SOM",https://flagcdn.com/dj.svg,Fr,DJF,Djiboutian franc,German
+66,Dominica,.dm,Roseau,Caribbean,Americas,71991,Dominica,,https://flagcdn.com/dm.svg,$,XCD,East Caribbean dollar,English
+67,Dominican Republic,.do,Santo Domingo,Caribbean,Americas,10847904,Rep˙blica Dominicana,HTI,https://flagcdn.com/do.svg,$,DOP,Dominican peso,Greek
+68,Ecuador,.ec,Quito,South America,Americas,17643060,Ecuador,"COL,PER",https://flagcdn.com/ec.svg,$,USD,United States dollar,English
+69,Egypt,.eg,Cairo,Northern Africa,Africa,102334403,????,"ISR,LBY,SDN",https://flagcdn.com/eg.svg,£,EGP,Egyptian pound,Spanish
+70,El Salvador,.sv,San Salvador,Central America,Americas,6486201,El Salvador,"GTM,HND",https://flagcdn.com/sv.svg,$,USD,United States dollar,French
+71,Equatorial Guinea,.gq,Malabo,Middle Africa,Africa,1402985,Guinea Ecuatorial,"CMR,GAB",https://flagcdn.com/gq.svg,Fr,XAF,Central African CFA franc,Portuguese
+72,Eritrea,.er,Asmara,Eastern Africa,Africa,5352000,????,"DJI,ETH,SDN",https://flagcdn.com/er.svg,Nfk,ERN,Eritrean nakfa,English
+73,Estonia,.ee,Tallinn,Northern Europe,Europe,1331057,Eesti,"LVA,RUS",https://flagcdn.com/ee.svg,Ä,EUR,Euro,"Haitian Creole,French"
+74,Ethiopia,.et,Addis Ababa,Eastern Africa,Africa,114963583,?????,"DJI,ERI,KEN,SOM,SSD,SDN",https://flagcdn.com/et.svg,Br,ETB,Ethiopian birr,Spanish
+75,Falkland Islands (Malvinas),.fk,Stanley,South America,Americas,2563,Falkland Islands,,https://flagcdn.com/fk.svg,£,FKP,Falkland Islands pound,Hungarian
+76,Faroe Islands,.fo,T√≥rshavn,Northern Europe,Europe,48865,F¯royar,,https://flagcdn.com/fo.svg,kr,DKK,Danish krone,Icelandic
+77,Fiji,.fj,Suva,Melanesia,Oceania,896444,Fiji,,https://flagcdn.com/fj.svg,$,FJD,Fijian dollar,"Pashto,Dari"
+78,Finland,.fi,Helsinki,Northern Europe,Europe,5530719,Suomi,"NOR,SWE,RUS",https://flagcdn.com/fi.svg,Ä,EUR,Euro,Indonesian
+79,France,.fr,Paris,Western Europe,Europe,67391582,France,"AND,BEL,DEU,ITA,LUX,MCO,ESP,CHE",https://flagcdn.com/fr.svg,Ä,EUR,Euro,Persian (Farsi)
+80,French Guiana,.gf,Cayenne,South America,Americas,254541,Guyane franÁaise,"BRA,SUR",https://flagcdn.com/gf.svg,Ä,EUR,Euro,"Arabic,Kurdish"
+81,French Polynesia,.pf,Papeetƒì,Polynesia,Oceania,280904,PolynÈsie franÁaise,,https://flagcdn.com/pf.svg,Fr,XPF,CFP franc,"Irish,English"
+82,French Southern Territories,.tf,Port-aux-Fran√ßais,Southern Africa,Africa,140,Territoire des Terres australes et antarctiques franÁaises,,https://flagcdn.com/tf.svg,Ä,EUR,Euro,"Hebrew,Arabic"
+83,Gabon,.ga,Libreville,Middle Africa,Africa,2225728,Gabon,"CMR,COG,GNQ",https://flagcdn.com/ga.svg,Fr,XAF,Central African CFA franc,Italian
+84,Gambia,.gm,Banjul,Western Africa,Africa,2416664,Gambia,SEN,https://flagcdn.com/gm.svg,D,GMD,Gambian dalasi,English
+85,Georgia,.ge,Tbilisi,Western Asia,Asia,3714000,??????????,"ARM,AZE,RUS,TUR",https://flagcdn.com/ge.svg,?,GEL,Georgian Lari,Japanese
+86,Germany,.de,Berlin,Central Europe,Europe,83240525,Deutschland,"AUT,BEL,CZE,DNK,FRA,LUX,NLD,POL,CHE",https://flagcdn.com/de.svg,Ä,EUR,Euro,Arabic
+87,Ghana,.gh,Accra,Western Africa,Africa,31072945,Ghana,"BFA,CIV,TGO",https://flagcdn.com/gh.svg,?,GHS,Ghanaian cedi,"Kazakh,Russian"
+88,Gibraltar,.gi,Gibraltar,Southern Europe,Europe,33691,Gibraltar,ESP,https://flagcdn.com/gi.svg,£,GIP,Gibraltar pound,"Swahili,English"
+89,Greece,.gr,Athens,Southern Europe,Europe,10715549,??????,"ALB,BGR,TUR,MKD",https://flagcdn.com/gr.svg,Ä,EUR,Euro,"Gilbertese,English"
+90,Greenland,.gl,Nuuk,Northern America,Americas,56367,Kalaallit Nunaat,,https://flagcdn.com/gl.svg,kr,DKK,Danish krone,North
+91,Grenada,.gd,St. George's,Caribbean,Americas,112519,Grenada,,https://flagcdn.com/gd.svg,$,XCD,East Caribbean dollar,South
+92,Guadeloupe,.gp,Basse-Terre,Caribbean,Americas,400132,Guadeloupe,,https://flagcdn.com/gp.svg,Ä,EUR,Euro,"Albanian,Serbian"
+93,Guam,.gu,Hag√•t√±a,Micronesia,Oceania,168783,Guam,,https://flagcdn.com/gu.svg,$,USD,United States dollar,Arabic
+94,Guatemala,.gt,Guatemala City,Central America,Americas,16858333,Guatemala,"BLZ,SLV,HND,MEX",https://flagcdn.com/gt.svg,Q,GTQ,Guatemalan quetzal,"Kyrgyz,Russian"
+95,Guernsey,.gg,St. Peter Port,Northern Europe,Europe,62999,Guernsey,,https://flagcdn.com/gg.svg,£,GBP,British pound,Lao
+96,Guinea,.gn,Conakry,Western Africa,Africa,13132792,GuinÈe,"CIV,GNB,LBR,MLI,SEN,SLE",https://flagcdn.com/gn.svg,Fr,GNF,Guinean franc,Latvian
+97,Guinea-Bissau,.gw,Bissau,Western Africa,Africa,1967998,GuinÈ-Bissau,"GIN,SEN",https://flagcdn.com/gw.svg,Fr,XOF,West African CFA franc,Arabic
+98,Guyana,.gy,Georgetown,South America,Americas,786559,Guyana,"BRA,SUR,VEN",https://flagcdn.com/gy.svg,$,GYD,Guyanese dollar,"Sesotho,English"
+99,Haiti,.ht,Port-au-Prince,Caribbean,Americas,11402533,HaÔti,DOM,https://flagcdn.com/ht.svg,G,HTG,Haitian gourde,English
+100,Heard Island and McDonald Islands,".hm,.aq",,Antarctic,Antarctic,0,Heard Island and McDonald Islands,,https://flagcdn.com/hm.svg,$,AUD,Australian dollar,Arabic
+101,Vatican City,.va,Vatican City,Southern Europe,Europe,451,Status Civitatis Vaticanae,ITA,https://flagcdn.com/va.svg,Ä,EUR,Euro,German
+102,Honduras,.hn,Tegucigalpa,Central America,Americas,9904608,Honduras,"GTM,SLV,NIC",https://flagcdn.com/hn.svg,L,HNL,Honduran lempira,Lithuanian
+103,Hungary,.hu,Budapest,Central Europe,Europe,9749763,Magyarorsz·g,"AUT,HRV,ROU,SRB,SVK,SVN,UKR",https://flagcdn.com/hu.svg,Ft,HUF,Hungarian forint,"Luxembourgish,French,German"
+104,Hong Kong,.hk,City of Victoria,Eastern Asia,Asia,7481800,??,CHN,https://flagcdn.com/hk.svg,$,HKD,Hong Kong dollar,"Malagasy,French"
+105,Iceland,.is,Reykjav√≠k,Northern Europe,Europe,366425,Õsland,,https://flagcdn.com/is.svg,kr,ISK,Icelandic krÛna,"Chichewa,English"
+106,Indonesia,.id,Jakarta,South-Eastern Asia,Asia,273523621,Indonesia,"TLS,MYS,PNG",https://flagcdn.com/id.svg,Rp,IDR,Indonesian rupiah,Malay
+107,Ivory Coast,.ci,Yamoussoukro,Western Africa,Africa,26378275,CÙte d'Ivoire,"BFA,GHA,GIN,LBR,MLI",https://flagcdn.com/ci.svg,Fr,XOF,West African CFA franc,Dhivehi
+108,Iran (Islamic Republic of),.ir,Tehran,Southern Asia,Asia,83992953,?????,"AFG,ARM,AZE,IRQ,PAK,TUR,TKM",https://flagcdn.com/ir.svg,?,IRR,Iranian rial,French
+109,Iraq,.iq,Baghdad,Western Asia,Asia,40222503,??????,"IRN,JOR,KWT,SAU,SYR,TUR",https://flagcdn.com/iq.svg,?.?,IQD,Iraqi dinar,"Maltese,English"
+110,Ireland,.ie,Dublin,Northern Europe,Europe,4994724,…ire,GBR,https://flagcdn.com/ie.svg,Ä,EUR,Euro,"Marshallese,English"
+111,Isle of Man,.im,Douglas,Northern Europe,Europe,85032,Isle of Man,,https://flagcdn.com/im.svg,£,GBP,British pound,Arabic
+112,Israel,.il,Jerusalem,Western Asia,Asia,9216900,??????????,"EGY,JOR,LBN,SYR",https://flagcdn.com/il.svg,?,ILS,Israeli new shekel,"English,French"
+113,Italy,.it,Rome,Southern Europe,Europe,59554023,Italia,"AUT,FRA,SMR,SVN,CHE,VAT",https://flagcdn.com/it.svg,Ä,EUR,Euro,Spanish
+114,Jamaica,.jm,Kingston,Caribbean,Americas,2961161,Jamaica,,https://flagcdn.com/jm.svg,$,JMD,Jamaican dollar,Federated States of
+115,Japan,.jp,Tokyo,Eastern Asia,Asia,125836021,??,,https://flagcdn.com/jp.svg,•,JPY,Japanese yen,Romanian
+116,Jersey,.je,Saint Helier,Northern Europe,Europe,100800,Jersey,,https://flagcdn.com/je.svg,£,GBP,British pound,French
+117,Jordan,.jo,Amman,Western Asia,Asia,10203140,??????,"IRQ,ISR,SAU,SYR",https://flagcdn.com/jo.svg,?.?,JOD,Jordanian dinar,Mongolian
+118,Kazakhstan,".kz,.“õ–∞–∑",Nur-Sultan,Central Asia,Asia,18754440,?????????,"CHN,KGZ,RUS,TKM,UZB",https://flagcdn.com/kz.svg,?,KZT,Kazakhstani tenge,Montenegrin
+119,Kenya,.ke,Nairobi,Eastern Africa,Africa,53771300,Kenya,"ETH,SOM,SSD,TZA,UGA",https://flagcdn.com/ke.svg,Sh,KES,Kenyan shilling,"Arabic,Berber"
+120,Kiribati,.ki,South Tarawa,Micronesia,Oceania,119446,Kiribati,,https://flagcdn.com/ki.svg,$,AUD,Australian dollar,Portuguese
+121,Kuwait,.kw,Kuwait City,Western Asia,Asia,4270563,??????,"IRQ,SAU",https://flagcdn.com/kw.svg,?.?,KWD,Kuwaiti dinar,Burmese
+122,Kyrgyzstan,.kg,Bishkek,Central Asia,Asia,6591600,??????????,"CHN,KAZ,TJK,UZB",https://flagcdn.com/kg.svg,?,KGS,Kyrgyzstani som,English
+123,Lao People's Democratic Republic,.la,Vientiane,South-Eastern Asia,Asia,7275556,??????????? ?????????? ??????????,"MMR,KHM,CHN,THA,VNM",https://flagcdn.com/la.svg,?,LAK,Lao kip,"Nauruan,English"
+124,Latvia,.lv,Riga,Northern Europe,Europe,1901548,Latvija,"BLR,EST,LTU,RUS",https://flagcdn.com/lv.svg,Ä,EUR,Euro,Nepali
+125,Lebanon,.lb,Beirut,Western Asia,Asia,6825442,?????,"ISR,SYR",https://flagcdn.com/lb.svg,?.?,LBP,Lebanese pound,Dutch
+126,Lesotho,.ls,Maseru,Southern Africa,Africa,2142252,Lesotho,ZAF,https://flagcdn.com/ls.svg,L,LSL,Lesotho loti,"English,MƒÅori"
+127,Liberia,.lr,Monrovia,Western Africa,Africa,5057677,Liberia,"GIN,CIV,SLE",https://flagcdn.com/lr.svg,$,LRD,Liberian dollar,Spanish
+128,Libya,.ly,Tripoli,Northern Africa,Africa,6871287,??????,"DZA,TCD,EGY,NER,SDN,TUN",https://flagcdn.com/ly.svg,?.?,LYD,Libyan dinar,French
+129,Liechtenstein,.li,Vaduz,Central Europe,Europe,38137,Liechtenstein,"AUT,CHE",https://flagcdn.com/li.svg,Fr,CHF,Swiss franc,English
+130,Lithuania,.lt,Vilnius,Northern Europe,Europe,2794700,Lietuva,"BLR,LVA,POL,RUS",https://flagcdn.com/lt.svg,Ä,EUR,Euro,Macedonian
+131,Luxembourg,.lu,Luxembourg,Western Europe,Europe,632275,LÎtzebuerg,"BEL,FRA,DEU",https://flagcdn.com/lu.svg,Ä,EUR,Euro,Norwegian
+132,Macao,.mo,,Eastern Asia,Asia,649342,??,CHN,https://flagcdn.com/mo.svg,P,MOP,Macanese pataca,Arabic
+133,North Macedonia,.mk,Skopje,Southern Europe,Europe,2083380,??????????,"ALB,BGR,GRC,UNK,SRB",https://flagcdn.com/mk.svg,???,MKD,Macedonian denar,"Urdu,English"
+134,Madagascar,.mg,Antananarivo,Eastern Africa,Africa,27691019,Madagasikara,,https://flagcdn.com/mg.svg,Ar,MGA,Malagasy ariary,"Palauan,English"
+135,Malawi,.mw,Lilongwe,Eastern Africa,Africa,19129955,Malawi,"MOZ,TZA,ZMB",https://flagcdn.com/mw.svg,MK,MWK,Malawian kwacha,Spanish
+136,Malaysia,.my,Kuala Lumpur,South-Eastern Asia,Asia,32365998,Malaysia,"BRN,IDN,THA",https://flagcdn.com/my.svg,RM,MYR,Malaysian ringgit,"English,Tok Pisin,Hiri Motu"
+137,Maldives,.mv,Mal√©,Southern Asia,Asia,540542,Maldives,,https://flagcdn.com/mv.svg,.?,MVR,Maldivian rufiyaa,"Spanish,Guarani"
+138,Mali,.ml,Bamako,Western Africa,Africa,20250834,Mali,"DZA,BFA,GIN,CIV,MRT,NER,SEN",https://flagcdn.com/ml.svg,Fr,XOF,West African CFA franc,Spanish
+139,Malta,.mt,Valletta,Southern Europe,Europe,525285,Malta,,https://flagcdn.com/mt.svg,Ä,EUR,Euro,"Filipino,English"
+140,Marshall Islands,.mh,Majuro,Micronesia,Oceania,59194,M?aje?,,https://flagcdn.com/mh.svg,$,USD,United States dollar,Polish
+141,Martinique,.mq,Fort-de-France,Caribbean,Americas,378243,Martinique,,https://flagcdn.com/mq.svg,Ä,EUR,Euro,Portuguese
+142,Mauritania,.mr,Nouakchott,Western Africa,Africa,4649660,?????????,"DZA,MLI,SEN,ESH",https://flagcdn.com/mr.svg,UM,MRO,Mauritanian ouguiya,Arabic
+143,Mauritius,.mu,Port Louis,Eastern Africa,Africa,1265740,Maurice,,https://flagcdn.com/mu.svg,?,MUR,Mauritian rupee,Romanian
+144,Mayotte,.yt,Mamoudzou,Eastern Africa,Africa,226915,Mayotte,,https://flagcdn.com/yt.svg,Ä,EUR,Euro,Russian
+145,Mexico,.mx,Mexico City,North America,Americas,128932753,MÈxico,"BLZ,GTM,USA",https://flagcdn.com/mx.svg,$,MXN,Mexican peso,"Kinyarwanda,French,English"
+146,Micronesia (Federated States of),.fm,Palikir,Micronesia,Oceania,115021,Micronesia,,https://flagcdn.com/fm.svg,$,USD,United States dollar,English
+147,Moldova (Republic of),.md,Chi»ôinƒÉu,Eastern Europe,Europe,2617820,Moldova,"ROU,UKR",https://flagcdn.com/md.svg,L,MDL,Moldovan leu,English
+148,Monaco,.mc,Monaco,Western Europe,Europe,39244,Monaco,FRA,https://flagcdn.com/mc.svg,Ä,EUR,Euro,English
+149,Mongolia,.mn,Ulan Bator,Eastern Asia,Asia,3278292,?????? ???,"CHN,RUS",https://flagcdn.com/mn.svg,?,MNT,Mongolian tˆgrˆg,"Samoan,English"
+150,Montenegro,.me,Podgorica,Southern Europe,Europe,621718,???? ????,"ALB,BIH,HRV,UNK,SRB",https://flagcdn.com/me.svg,Ä,EUR,Euro,Italian
+151,Montserrat,.ms,Plymouth,Caribbean,Americas,4922,Montserrat,,https://flagcdn.com/ms.svg,$,XCD,East Caribbean dollar,Portuguese
+152,Morocco,.ma,Rabat,Northern Africa,Africa,36910558,??????,"DZA,ESH,ESP",https://flagcdn.com/ma.svg,?.?.,MAD,Moroccan dirham,Arabic
+153,Mozambique,.mz,Maputo,Eastern Africa,Africa,31255435,MoÁambique,"MWI,ZAF,SWZ,TZA,ZMB,ZWE",https://flagcdn.com/mz.svg,MT,MZN,Mozambican metical,French
+154,Myanmar,.mm,Naypyidaw,South-Eastern Asia,Asia,54409794,Myanma,"BGD,CHN,IND,LAO,THA",https://flagcdn.com/mm.svg,Ks,MMK,Burmese kyat,Serbian
+155,Namibia,.na,Windhoek,Southern Africa,Africa,2540916,Namibia,"AGO,BWA,ZAF,ZMB",https://flagcdn.com/na.svg,$,NAD,Namibian dollar,"English,French,Seychellois Creole"
+156,Nauru,.nr,Yaren,Micronesia,Oceania,10834,Nauru,,https://flagcdn.com/nr.svg,$,AUD,Australian dollar,English
+157,Nepal,.np,Kathmandu,Southern Asia,Asia,29136808,?????,"CHN,IND",https://flagcdn.com/np.svg,?,NPR,Nepalese rupee,"English,Mandarin,Malay,Tamil"
+158,Netherlands,.nl,Amsterdam,Western Europe,Europe,17441139,Nederland,"BEL,DEU",https://flagcdn.com/nl.svg,Ä,EUR,Euro,Slovak
+159,New Caledonia,.nc,Noum√©a,Melanesia,Oceania,271960,Nouvelle-CalÈdonie,,https://flagcdn.com/nc.svg,Fr,XPF,CFP franc,Slovenian
+160,New Zealand,.nz,Wellington,Australia and New Zealand,Oceania,5084300,New Zealand,,https://flagcdn.com/nz.svg,$,NZD,New Zealand dollar,English
+161,Nicaragua,.ni,Managua,Central America,Americas,6624554,Nicaragua,"CRI,HND",https://flagcdn.com/ni.svg,C$,NIO,Nicaraguan cÛrdoba,"Somali,Arabic"
+162,Niger,.ne,Niamey,Western Africa,Africa,24206636,Niger,"DZA,BEN,BFA,TCD,LBY,MLI,NGA",https://flagcdn.com/ne.svg,Fr,XOF,West African CFA franc,"Afrikaans,English,isiNdebele,isiXhosa,isiZulu,Sepedi,Sesotho,Setswana,siSwati,Tshivenda,Xitsonga"
+163,Nigeria,.ng,Abuja,Western Africa,Africa,206139587,Nigeria,"BEN,CMR,TCD,NER",https://flagcdn.com/ng.svg,?,NGN,Nigerian naira,English
+164,Niue,.nu,Alofi,Polynesia,Oceania,1470,Niu?,,https://flagcdn.com/nu.svg,$,NZD,New Zealand dollar,Spanish
+165,Norfolk Island,.nf,Kingston,Australia and New Zealand,Oceania,2302,Norfolk Island,,https://flagcdn.com/nf.svg,$,AUD,Australian dollar,"Sinhala,Tamil"
+166,Korea (Democratic People's Republic of),.kp,Pyongyang,Eastern Asia,Asia,25778815,??,"CHN,KOR,RUS",https://flagcdn.com/kp.svg,?,KPW,North Korean won,"Arabic,English"
+167,Northern Mariana Islands,.mp,Saipan,Micronesia,Oceania,57557,Northern Mariana Islands,,https://flagcdn.com/mp.svg,$,USD,United States dollar,Dutch
+168,Norway,.no,Oslo,Northern Europe,Europe,5379475,Norge,"FIN,SWE,RUS",https://flagcdn.com/no.svg,kr,NOK,Norwegian krone,Swedish
+169,Oman,.om,Muscat,Western Asia,Asia,5106622,????,"SAU,ARE,YEM",https://flagcdn.com/om.svg,?.?.,OMR,Omani rial,"German,French,Italian,Romansh"
+170,Pakistan,.pk,Islamabad,Southern Asia,Asia,220892331,Pakistan,"AFG,CHN,IND,IRN",https://flagcdn.com/pk.svg,?,PKR,Pakistani rupee,Arabic
+171,Palau,.pw,Ngerulmud,Micronesia,Oceania,18092,Palau,,https://flagcdn.com/pw.svg,$,USD,United States dollar,Mandarin Chinese
+172,"Palestine, State of",.ps,Ramallah,Western Asia,Asia,4803269,??????,"ISR,EGY,JOR",https://flagcdn.com/ps.svg,E£,EGP,Egyptian pound,Tajik
+173,Panama,.pa,Panama City,Central America,Americas,4314768,Panam·,"COL,CRI",https://flagcdn.com/pa.svg,B/.,PAB,Panamanian balboa,"Swahili,English"
+174,Papua New Guinea,.pg,Port Moresby,Melanesia,Oceania,8947027,Papua Niugini,IDN,https://flagcdn.com/pg.svg,K,PGK,Papua New Guinean kina,Thai
+175,Paraguay,.py,Asunci√≥n,South America,Americas,7132530,Paraguay,"ARG,BOL,BRA",https://flagcdn.com/py.svg,?,PYG,Paraguayan guaranÌ,"Tetum,Portuguese"
+176,Peru,.pe,Lima,South America,Americas,32971846,Per˙,"BOL,BRA,CHL,COL,ECU",https://flagcdn.com/pe.svg,S/.,PEN,Peruvian sol,French
+177,Philippines,.ph,Manila,South-Eastern Asia,Asia,109581085,Pilipinas,,https://flagcdn.com/ph.svg,?,PHP,Philippine peso,"Tongan,English"
+178,Pitcairn,.pn,Adamstown,Polynesia,Oceania,56,Pitcairn Islands,,https://flagcdn.com/pn.svg,$,NZD,New Zealand dollar,English
+179,Poland,.pl,Warsaw,Central Europe,Europe,37950802,Polska,"BLR,CZE,DEU,LTU,RUS,SVK,UKR",https://flagcdn.com/pl.svg,z?,PLN,Polish z?oty,Arabic
+180,Portugal,.pt,Lisbon,Southern Europe,Europe,10305564,Portugal,ESP,https://flagcdn.com/pt.svg,Ä,EUR,Euro,Turkish
+181,Puerto Rico,.pr,San Juan,Caribbean,Americas,3194034,Puerto Rico,,https://flagcdn.com/pr.svg,$,USD,United States dollar,Turkmen
+182,Qatar,.qa,Doha,Western Asia,Asia,2881060,???,SAU,https://flagcdn.com/qa.svg,?.?,QAR,Qatari riyal,"Tuvaluan,English"
+183,Republic of Kosovo,,Pristina,Eastern Europe,Europe,1775378,Republika e KosovÎs,"ALB,MKD,MNE,SRB",https://flagcdn.com/xk.svg,Ä,EUR,Euro,"English,Swahili"
+184,R√©union,.re,Saint-Denis,Eastern Africa,Africa,840974,La RÈunion,,https://flagcdn.com/re.svg,Ä,EUR,Euro,Ukrainian
+185,Romania,.ro,Bucharest,Eastern Europe,Europe,19286123,Rom‚nia,"BGR,HUN,MDA,SRB,UKR",https://flagcdn.com/ro.svg,lei,RON,Romanian leu,Arabic
+186,Russian Federation,.ru,Moscow,Eastern Europe,Europe,144104080,??????,"AZE,BLR,CHN,EST,FIN,GEO,KAZ,PRK,LVA,LTU,MNG,NOR,POL,UKR",https://flagcdn.com/ru.svg,?,RUB,Russian ruble,English
+187,Rwanda,.rw,Kigali,Eastern Africa,Africa,12952209,Rwanda,"BDI,COD,TZA,UGA",https://flagcdn.com/rw.svg,Fr,RWF,Rwandan franc,English
+188,Saint Barth√©lemy,.bl,Gustavia,Caribbean,Americas,9417,Saint-BarthÈlemy,,https://flagcdn.com/bl.svg,Ä,EUR,Euro,Spanish
+189,"Saint Helena, Ascension and Tristan da Cunha",.sh,Jamestown,Western Africa,Africa,4255,Saint Helena,,https://flagcdn.com/sh.svg,£,SHP,Saint Helena pound,Uzbek
+190,Saint Kitts and Nevis,.kn,Basseterre,Caribbean,Americas,53192,Saint Kitts and Nevis,,https://flagcdn.com/kn.svg,$,XCD,East Caribbean dollar,"Bislama,English,French"
+191,Saint Lucia,.lc,Castries,Caribbean,Americas,183629,Saint Lucia,,https://flagcdn.com/lc.svg,$,XCD,East Caribbean dollar,Italian
+192,Saint Martin (French part),".mf,.fr,.gp",Marigot,Caribbean,Americas,38659,Saint-Martin,"SXM,NLD",https://flagcdn.com/mf.svg,Ä,EUR,Euro,Spanish
+193,Saint Pierre and Miquelon,.pm,Saint-Pierre,Northern America,Americas,6069,Saint-Pierre-et-Miquelon,,https://flagcdn.com/pm.svg,Ä,EUR,Euro,Vietnamese
+194,Saint Vincent and the Grenadines,.vc,Kingstown,Caribbean,Americas,110947,Saint Vincent and the Grenadines,,https://flagcdn.com/vc.svg,$,XCD,East Caribbean dollar,Arabic
+195,Samoa,.ws,Apia,Polynesia,Oceania,198410,Samoa,,https://flagcdn.com/ws.svg,T,WST,Samoan t?l?,English
+196,San Marino,.sm,City of San Marino,Southern Europe,Europe,33938,San Marino,ITA,https://flagcdn.com/sm.svg,Ä,EUR,Euro,"English,Shona,Ndebele"
+197,Sao Tome and Principe,.st,S√£o Tom√©,Middle Africa,Africa,219161,S„o TomÈ e PrÌncipe,,https://flagcdn.com/st.svg,Db,STD,S„o TomÈ and PrÌncipe dobra,
+198,Saudi Arabia,.sa,Riyadh,Western Asia,Asia,34813867,??????? ????????,"IRQ,JOR,KWT,OMN,QAT,ARE,YEM",https://flagcdn.com/sa.svg,?.?,SAR,Saudi riyal,
+199,Senegal,.sn,Dakar,Western Africa,Africa,16743930,SÈnÈgal,"GMB,GIN,GNB,MLI,MRT",https://flagcdn.com/sn.svg,Fr,XOF,West African CFA franc,
+200,Serbia,.rs,Belgrade,Southern Europe,Europe,6908224,??????,"BIH,BGR,HRV,HUN,UNK,MKD,MNE,ROU",https://flagcdn.com/rs.svg,???.,RSD,Serbian dinar,
+201,Seychelles,.sc,Victoria,Eastern Africa,Africa,98462,Seychelles,,https://flagcdn.com/sc.svg,?,SCR,Seychellois rupee,
+202,Sierra Leone,.sl,Freetown,Western Africa,Africa,7976985,Sierra Leone,"GIN,LBR",https://flagcdn.com/sl.svg,Le,SLL,Sierra Leonean leone,
+203,Singapore,.sg,Singapore,South-Eastern Asia,Asia,5685807,Singapore,,https://flagcdn.com/sg.svg,$,SGD,Singapore dollar,
+204,Sint Maarten (Dutch part),.sx,Philipsburg,Caribbean,Americas,40812,Sint Maarten,MAF,https://flagcdn.com/sx.svg,É,ANG,Netherlands Antillean guilder,
+205,Slovakia,.sk,Bratislava,Central Europe,Europe,5458827,Slovensko,"AUT,CZE,HUN,POL,UKR",https://flagcdn.com/sk.svg,Ä,EUR,Euro,
+206,Slovenia,.si,Ljubljana,Southern Europe,Europe,2100126,Slovenija,"AUT,HRV,ITA,HUN",https://flagcdn.com/si.svg,Ä,EUR,Euro,
+207,Solomon Islands,.sb,Honiara,Melanesia,Oceania,686878,Solomon Islands,,https://flagcdn.com/sb.svg,$,SBD,Solomon Islands dollar,
+208,Somalia,.so,Mogadishu,Eastern Africa,Africa,15893219,Soomaaliya,"DJI,ETH,KEN",https://flagcdn.com/so.svg,Sh,SOS,Somali shilling,
+209,South Africa,.za,Pretoria,Southern Africa,Africa,59308690,South Africa,"BWA,LSO,MOZ,NAM,SWZ,ZWE",https://flagcdn.com/za.svg,R,ZAR,South African rand,
+210,South Georgia and the South Sandwich Islands,.gs,King Edward Point,South America,Americas,30,South Georgia,,https://flagcdn.com/gs.svg,£,FKP,Falkland Islands Pound,
+211,Korea (Republic of),.kr,Seoul,Eastern Asia,Asia,51780579,????,PRK,https://flagcdn.com/kr.svg,?,KRW,South Korean won,
+212,Spain,.es,Madrid,Southern Europe,Europe,47351567,EspaÒa,"AND,FRA,GIB,PRT,MAR",https://flagcdn.com/es.svg,Ä,EUR,Euro,
+213,Sri Lanka,.lk,Sri Jayawardenepura Kotte,Southern Asia,Asia,21919000,?r? la?k?va,IND,https://flagcdn.com/lk.svg,Rs,LKR,Sri Lankan rupee,
+214,Sudan,.sd,Khartoum,Northern Africa,Africa,43849269,???????,"CAF,TCD,EGY,ERI,ETH,LBY,SSD",https://flagcdn.com/sd.svg,?.?.,SDG,Sudanese pound,
+215,South Sudan,.ss,Juba,Middle Africa,Africa,11193729,South Sudan,"CAF,COD,ETH,KEN,SDN,UGA",https://flagcdn.com/ss.svg,£,SSP,South Sudanese pound,
+216,Suriname,.sr,Paramaribo,South America,Americas,586634,Suriname,"BRA,FRA,GUF,GUY",https://flagcdn.com/sr.svg,$,SRD,Surinamese dollar,
+217,Svalbard and Jan Mayen,.sj,Longyearbyen,Northern Europe,Europe,2562,Svalbard og Jan Mayen,,https://flagcdn.com/sj.svg,kr,NOK,Norwegian krone,
+218,Swaziland,.sz,Mbabane,Southern Africa,Africa,1160164,Swaziland,"MOZ,ZAF",https://flagcdn.com/sz.svg,L,SZL,Swazi lilangeni,
+219,Sweden,.se,Stockholm,Northern Europe,Europe,10353442,Sverige,"FIN,NOR",https://flagcdn.com/se.svg,kr,SEK,Swedish krona,
+220,Switzerland,.ch,Bern,Central Europe,Europe,8636896,Schweiz,"AUT,FRA,ITA,LIE,DEU",https://flagcdn.com/ch.svg,Fr,CHF,Swiss franc,
+221,Syrian Arab Republic,.sy,Damascus,Western Asia,Asia,17500657,?????,"IRQ,ISR,JOR,LBN,TUR",https://flagcdn.com/sy.svg,£,SYP,Syrian pound,
+222,Taiwan,.tw,Taipei,Eastern Asia,Asia,23503349,??,,https://flagcdn.com/tw.svg,$,TWD,New Taiwan dollar,
+223,Tajikistan,.tj,Dushanbe,Central Asia,Asia,9537642,??????????,"AFG,CHN,KGZ,UZB",https://flagcdn.com/tj.svg,??,TJS,Tajikistani somoni,
+224,"Tanzania, United Republic of",.tz,Dodoma,Eastern Africa,Africa,59734213,Tanzania,"BDI,COD,KEN,MWI,MOZ,RWA,UGA,ZMB",https://flagcdn.com/tz.svg,Sh,TZS,Tanzanian shilling,
+225,Thailand,.th,Bangkok,South-Eastern Asia,Asia,69799978,?????????,"MMR,KHM,LAO,MYS",https://flagcdn.com/th.svg,?,THB,Thai baht,
+226,Timor-Leste,.tl,Dili,South-Eastern Asia,Asia,1318442,Timor-Leste,IDN,https://flagcdn.com/tl.svg,$,USD,United States Dollar,
+227,Togo,.tg,Lom√©,Western Africa,Africa,8278737,Togo,"BEN,BFA,GHA",https://flagcdn.com/tg.svg,Fr,XOF,West African CFA franc,
+228,Tokelau,.tk,Fakaofo,Polynesia,Oceania,1411,Tokelau,,https://flagcdn.com/tk.svg,$,NZD,New Zealand dollar,
+229,Tonga,.to,Nuku'alofa,Polynesia,Oceania,105697,Tonga,,https://flagcdn.com/to.svg,T$,TOP,Tongan pa?anga,
+230,Trinidad and Tobago,.tt,Port of Spain,Caribbean,Americas,1399491,Trinidad and Tobago,,https://flagcdn.com/tt.svg,$,TTD,Trinidad and Tobago dollar,
+231,Tunisia,.tn,Tunis,Northern Africa,Africa,11818618,????,"DZA,LBY",https://flagcdn.com/tn.svg,?.?,TND,Tunisian dinar,
+232,Turkey,.tr,Ankara,Western Asia,Asia,84339067,T¸rkiye,"ARM,AZE,BGR,GEO,GRC,IRN,IRQ,SYR",https://flagcdn.com/tr.svg,?,TRY,Turkish lira,
+233,Turkmenistan,.tm,Ashgabat,Central Asia,Asia,6031187,T¸rkmenistan,"AFG,IRN,KAZ,UZB",https://flagcdn.com/tm.svg,m,TMT,Turkmenistan manat,
+234,Turks and Caicos Islands,.tc,Cockburn Town,Caribbean,Americas,38718,Turks and Caicos Islands,,https://flagcdn.com/tc.svg,$,USD,United States dollar,
+235,Tuvalu,.tv,Funafuti,Polynesia,Oceania,11792,Tuvalu,,https://flagcdn.com/tv.svg,$,AUD,Australian dollar,
+236,Uganda,.ug,Kampala,Eastern Africa,Africa,45741000,Uganda,"COD,KEN,RWA,SSD,TZA",https://flagcdn.com/ug.svg,Sh,UGX,Ugandan shilling,
+237,Ukraine,.ua,Kyiv,Eastern Europe,Europe,44134693,???????,"BLR,HUN,MDA,POL,ROU,RUS,SVK",https://flagcdn.com/ua.svg,?,UAH,Ukrainian hryvnia,
+238,United Arab Emirates,.ae,Abu Dhabi,Western Asia,Asia,9890400,???? ???????? ??????? ???????,"OMN,SAU",https://flagcdn.com/ae.svg,?.?,AED,United Arab Emirates dirham,
+239,United Kingdom of Great Britain and Northern Ireland,.uk,London,Northern Europe,Europe,67215293,United Kingdom,IRL,https://flagcdn.com/gb.svg,£,GBP,British pound,
+240,United States of America,.us,"Washington, D.C.",Northern America,Americas,329484123,United States,"CAN,MEX",https://flagcdn.com/us.svg,$,USD,United States dollar,
+241,Uruguay,.uy,Montevideo,South America,Americas,3473727,Uruguay,"ARG,BRA",https://flagcdn.com/uy.svg,$,UYU,Uruguayan peso,
+242,Uzbekistan,.uz,Tashkent,Central Asia,Asia,34232050,Oëzbekiston,"AFG,KAZ,KGZ,TJK,TKM",https://flagcdn.com/uz.svg,so'm,UZS,Uzbekistani so'm,
+243,Vanuatu,.vu,Port Vila,Melanesia,Oceania,307150,Vanuatu,,https://flagcdn.com/vu.svg,Vt,VUV,Vanuatu vatu,
+244,Venezuela (Bolivarian Republic of),.ve,Caracas,South America,Americas,28435943,Venezuela,"BRA,COL,GUY",https://flagcdn.com/ve.svg,Bs S,VEF,Venezuelan bolÌvar,
+245,Vietnam,.vn,Hanoi,South-Eastern Asia,Asia,97338583,Vi?t Nam,"KHM,CHN,LAO",https://flagcdn.com/vn.svg,?,VND,Vietnamese ??ng,
+246,Wallis and Futuna,.wf,Mata-Utu,Polynesia,Oceania,11750,Wallis et Futuna,,https://flagcdn.com/wf.svg,Fr,XPF,CFP franc,
+247,Western Sahara,.eh,El Aai√∫n,Northern Africa,Africa,510713,??????? ???????,"DZA,MRT,MAR",https://flagcdn.com/eh.svg,?.?.,MAD,Moroccan dirham,
+248,Yemen,.ye,Sana'a,Western Asia,Asia,29825968,???????,"OMN,SAU",https://flagcdn.com/ye.svg,?,YER,Yemeni rial,
+249,Zambia,.zm,Lusaka,Eastern Africa,Africa,18383956,Zambia,"AGO,BWA,COD,MWI,MOZ,NAM,TZA,ZWE",https://flagcdn.com/zm.svg,ZK,ZMW,Zambian kwacha,
+250,Zimbabwe,.zw,Harare,Southern Africa,Africa,14862927,Zimbabwe,"BWA,MOZ,ZAF,ZMB",https://flagcdn.com/zw.svg,K,ZMW,Zambian kwacha,

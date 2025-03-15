@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 1422 800" opacity="0.81">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="oooscillate-grad">
+            <stop stop-color="#E90064" stop-opacity="1" offset="0%"></stop>
+            <stop stop-color="#060047" stop-opacity="1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke-width="1" stroke="url(#oooscillate-grad)" fill="none" stroke-linecap="round">
+        <path d="M 0 2925 Q 355.5 -100 711 400 Q 1066.5 900 1422 2925" stroke-dasharray="22 48" opacity="1.00"></path>
+        <path d="M 0 2850 Q 355.5 -100 711 400 Q 1066.5 900 1422 2850" stroke-dasharray="54 43" opacity="0.97"></path>
+        <path d="M 0 2775 Q 355.5 -100 711 400 Q 1066.5 900 1422 2775" stroke-dasharray="21 90" opacity="0.95"></path>
+        <path d="M 0 2700 Q 355.5 -100 711 400 Q 1066.5 900 1422 2700" stroke-dasharray="48 59" opacity="0.93"></path>
+        <path d="M 0 2625 Q 355.5 -100 711 400 Q 1066.5 900 1422 2625" stroke-dasharray="78 48" opacity="0.90"></path>
+        <path d="M 0 2550 Q 355.5 -100 711 400 Q 1066.5 900 1422 2550" stroke-dasharray="1 11" opacity="0.88"></path>
+        <path d="M 0 2475 Q 355.5 -100 711 400 Q 1066.5 900 1422 2475" stroke-dasharray="39 20" opacity="0.85"></path>
+        <path d="M 0 2400 Q 355.5 -100 711 400 Q 1066.5 900 1422 2400" stroke-dasharray="27 46" opacity="0.82"></path>
+        <path d="M 0 2325 Q 355.5 -100 711 400 Q 1066.5 900 1422 2325" stroke-dasharray="62 22" opacity="0.80"></path>
+        <path d="M 0 2250 Q 355.5 -100 711 400 Q 1066.5 900 1422 2250" stroke-dasharray="45 66" opacity="0.78"></path>
+        <path d="M 0 2175 Q 355.5 -100 711 400 Q 1066.5 900 1422 2175" stroke-dasharray="77 43" opacity="0.75"></path>
+        <path d="M 0 2100 Q 355.5 -100 711 400 Q 1066.5 900 1422 2100" stroke-dasharray="90 58" opacity="0.72"></path>
+        <path d="M 0 2025 Q 355.5 -100 711 400 Q 1066.5 900 1422 2025" stroke-dasharray="38 51" opacity="0.70"></path>
+        <path d="M 0 1950 Q 355.5 -100 711 400 Q 1066.5 900 1422 1950" stroke-dasharray="90 1" opacity="0.68"></path>
+        <path d="M 0 1875 Q 355.5 -100 711 400 Q 1066.5 900 1422 1875" stroke-dasharray="83 73" opacity="0.65"></path>
+        <path d="M 0 1800 Q 355.5 -100 711 400 Q 1066.5 900 1422 1800" stroke-dasharray="43 37" opacity="0.63"></path>
+        <path d="M 0 1725 Q 355.5 -100 711 400 Q 1066.5 900 1422 1725" stroke-dasharray="73 31" opacity="0.60"></path>
+        <path d="M 0 1650 Q 355.5 -100 711 400 Q 1066.5 900 1422 1650" stroke-dasharray="88 87" opacity="0.57"></path>
+        <path d="M 0 1575 Q 355.5 -100 711 400 Q 1066.5 900 1422 1575" stroke-dasharray="75 5" opacity="0.55"></path>
+        <path d="M 0 1500 Q 355.5 -100 711 400 Q 1066.5 900 1422 1500" stroke-dasharray="9 84" opacity="0.53"></path>
+        <path d="M 0 1425 Q 355.5 -100 711 400 Q 1066.5 900 1422 1425" stroke-dasharray="46 53" opacity="0.50"></path>
+        <path d="M 0 1350 Q 355.5 -100 711 400 Q 1066.5 900 1422 1350" stroke-dasharray="46 40" opacity="0.47"></path>
+        <path d="M 0 1275 Q 355.5 -100 711 400 Q 1066.5 900 1422 1275" stroke-dasharray="91 73" opacity="0.45"></path>
+        <path d="M 0 1200 Q 355.5 -100 711 400 Q 1066.5 900 1422 1200" stroke-dasharray="51 8" opacity="0.43"></path>
+        <path d="M 0 1125 Q 355.5 -100 711 400 Q 1066.5 900 1422 1125" stroke-dasharray="60 20" opacity="0.40"></path>
+        <path d="M 0 1050 Q 355.5 -100 711 400 Q 1066.5 900 1422 1050" stroke-dasharray="67 80" opacity="0.38"></path>
+        <path d="M 0 975 Q 355.5 -100 711 400 Q 1066.5 900 1422 975" stroke-dasharray="86 71" opacity="0.35"></path>
+        <path d="M 0 900 Q 355.5 -100 711 400 Q 1066.5 900 1422 900" stroke-dasharray="1 51" opacity="0.33"></path>
+        <path d="M 0 825 Q 355.5 -100 711 400 Q 1066.5 900 1422 825" stroke-dasharray="9 39" opacity="0.30"></path>
+        <path d="M 0 750 Q 355.5 -100 711 400 Q 1066.5 900 1422 750" stroke-dasharray="19 87" opacity="0.28"></path>
+        <path d="M 0 675 Q 355.5 -100 711 400 Q 1066.5 900 1422 675" stroke-dasharray="57 86" opacity="0.25"></path>
+        <path d="M 0 600 Q 355.5 -100 711 400 Q 1066.5 900 1422 600" stroke-dasharray="2 23" opacity="0.23"></path>
+        <path d="M 0 525 Q 355.5 -100 711 400 Q 1066.5 900 1422 525" stroke-dasharray="42 72" opacity="0.20"></path>
+        <path d="M 0 450 Q 355.5 -100 711 400 Q 1066.5 900 1422 450" stroke-dasharray="9 7" opacity="0.18"></path>
+        <path d="M 0 375 Q 355.5 -100 711 400 Q 1066.5 900 1422 375" stroke-dasharray="25 34" opacity="0.15"></path>
+        <path d="M 0 300 Q 355.5 -100 711 400 Q 1066.5 900 1422 300" stroke-dasharray="72 87" opacity="0.13"></path>
+        <path d="M 0 225 Q 355.5 -100 711 400 Q 1066.5 900 1422 225" stroke-dasharray="40 6" opacity="0.10"></path>
+        <path d="M 0 150 Q 355.5 -100 711 400 Q 1066.5 900 1422 150" stroke-dasharray="82 46" opacity="0.08"></path>
+    </g>
+</svg>
