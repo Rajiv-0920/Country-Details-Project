@@ -105,4 +105,4 @@ For questions or feedback, please reach out to:
 
 - Email: kumarrajiv0920@gmail.com
 - GitHub: [My GitHub Profile](https://github.com/rajiv-0920)
-- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/rajiv4373)
+- LinkedIn: [Connect with me on LinkedIn](www.linkedin.com/in/rajivkumar0920)
