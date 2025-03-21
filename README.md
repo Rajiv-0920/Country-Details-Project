@@ -103,6 +103,6 @@ We welcome contributions! Please follow these steps to contribute:
 
 For questions or feedback, please reach out to:
 
-- Email: kumarrajiv09202@gmail.com
-- GitHub: [your-github-username](https://github.com/rajiv-0920)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/rajiv4373)
+- Email: kumarrajiv0920@gmail.com
+- GitHub: [My GitHub Profile](https://github.com/rajiv-0920)
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/rajiv4373)
